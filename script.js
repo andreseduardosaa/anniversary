@@ -12,7 +12,7 @@ const compliments = [
     {
         title: "Fall With You 🎃",
         text: "This was a special day. I really knew I had fallen for you after this day. Hence, me saying I love you for the first time. The pumpkin patch, picking our first child, Gordo, and freaking out the whole night from the heavy winds made this day truly special.",
-        image: "images/pumpkin-patch.jpg"
+        image: "images/pumpkin-patch.JPG"
     },
 
     {
@@ -30,7 +30,7 @@ const compliments = [
     {
         title: "The Grand Tetons 🏔️",
         text: "This trip was just sooo WOW. I think you turned me into a fake country boy and that's a true testament to how deeply in love I am with you.",
-        image: "images/grand-tetons.jpg"
+        image: "images/grand-tetons.JPG"
     },
 
     {
@@ -42,7 +42,7 @@ const compliments = [
     {
         title: "What I Love About You ❤️",
         text: "More than any trip, restaurant, or adventure, my favorite part of this year with you has been getting to know you better. I love the person you are, and I feel incredibly lucky to have you in my life.",
-        image: "images/us.jpg"
+        image: "images/us.JPG"
     },
 
     {
